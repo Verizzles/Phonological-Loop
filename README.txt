@@ -7,6 +7,5 @@ Loop.py calls on speeech.py to speak and takes the chunk outputs of Speak.py and
 
 Only primacy effect can be seen here, Recency is fake news.
 
-speech.py was written by Dr.Leibovitz
-
 Speak.py and Loop.py model are by Maria Vorobeva
+speech.py was written by Dr.Leibovitz and is not included here
